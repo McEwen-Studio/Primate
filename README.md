@@ -3,11 +3,9 @@ Primate
 
 Component library for Leap Motion in Grasshopper
 
-Primate is a plug-in for the 3D software Rhino with Grasshopper, 
-the scripting interface for parametric definitions of openNURBS geometry.  
-Primate uses a C# package on the .NET platform to create communication 
-between the Leap Motion Controller device and the full suite of 3D modelling in Rhino and Grasshopper.  This brings the intuition of hand gestures to a rigorous platform for programming, modelling and parameter control. 
-Grasshopper is an algorthmic editor that runs in McNeel's Rhino.
+Primate is a plug-in for the 3D software Rhino with Grasshopper, the scripting interface for parametric definitions of openNURBS geometry. Grasshopper is an algorthmic editor that runs in McNeel's Rhino.  
+
+Primate uses a C# package on the .NET platform to create communication between the Leap Motion Controller device and the full suite of 3D modelling in Rhino and Grasshopper.  This brings the intuition of hand gestures to a rigorous platform for programming, modelling and parameter control. 
 
 Move the ExampleFile folder to a folder outside of the Primate_LM folder.  
 Open the Example File Primate-Grid-Demo in Rhino and Grid-Demo-Primate in Grasshopper.  
